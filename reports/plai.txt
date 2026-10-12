@@ -1,0 +1,10 @@
+Data_Engineer_project/
+├── sales.duckdb
+├── scripts/
+│   ├── connect_db.py
+│   ├── generate_summary.py
+│   └── daily_sales.py
+└── reports/
+    ├── sales_summary.csv
+    ├── high_value_sales.csv
+    └── daily_sales_report.csv

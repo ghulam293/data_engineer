@@ -1,0 +1,8 @@
+metric,value
+Total Scripts,6
+Successful Scripts,6
+Failed Scripts,0
+Slow Scripts,1
+Pipeline Health,WARNING
+Slowest Script,create_dashboard.py
+Combined Script Duration (seconds),23.94

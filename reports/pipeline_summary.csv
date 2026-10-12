@@ -1,0 +1,7 @@
+script,status,execution_time,duration_seconds
+validate_sales.py,SUCCESS,2026-10-13 01:19:12.012462,0.71
+clean_sales.py,SUCCESS,2026-10-13 01:19:12.720267,1.11
+data_quality_report.py,SUCCESS,2026-10-13 01:19:13.832308,0.66
+daily_sales.py,SUCCESS,2026-10-13 01:19:14.491739,0.65
+analyze_daily_sales.py,SUCCESS,2026-10-13 01:19:15.144224,0.58
+create_dashboard.py,SUCCESS,2026-10-13 01:19:15.728059,20.23
